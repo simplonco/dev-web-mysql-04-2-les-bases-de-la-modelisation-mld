@@ -60,11 +60,11 @@ Maintenant que tu as les cardinalités de ta relation dans les deux sens, regard
 
 Tu peux obtenir trois combinaisons de valeurs maximales, donc trois types de relation :
 
-- One To One (1-1) : une relation unique entre deux entités. Par exemple, un Sorcier ne pourra posséder qu’**un et un seul** Familier, et un Familier n’appartient qu’à **un seul et un seul** Sorcier.
+- **One To One (1-1)** : une relation unique entre deux entités. Par exemple, un Sorcier ne pourra posséder qu’**un et un seul** Familier, et un Familier n’appartient qu’à **un seul et un seul** Sorcier.
 
-- One To Many (1-N) : c’est le cas juste au-dessus où un Sorcier s'inscrit dans **une seule** École et où dans une École peuvent s'inscrire **plusieurs** Sorciers. Tu peux aussi parler de Many To One si tu le lis dans l'autre sens : c'est la même chose.
+- **One To Many (1-N)** : c’est le cas juste au-dessus où un Sorcier s'inscrit dans **une seule** École et où dans une École peuvent s'inscrire **plusieurs** Sorciers. Tu peux aussi parler de Many To One si tu le lis dans l'autre sens : c'est la même chose.
 
-- Many To Many (N-N) : une entité peut interagir avec plusieurs éléments d’une autre entité, et _vice versa_.  Par exemple, un Sorcier peut emprunter **plusieurs** Livres, et un Livre peut être emprunté par **plusieurs** Sorciers.
+- **Many To Many (N-N)** : une entité peut interagir avec plusieurs éléments d’une autre entité, et _vice versa_.  Par exemple, un Sorcier peut emprunter **plusieurs** Livres, et un Livre peut être emprunté par **plusieurs** Sorciers.
 
 ### Les clés étrangères
 
@@ -137,12 +137,7 @@ Chaque potion que tu vas créer a un nom. Les potions utilisent des ingrédients
 
 ![](images/mcd-potions.png)
 
-Prends un papier et un crayon (ou rends-toi sur https://excalidraw.com/), et dessine **le MLD** qui correspond au MCD proposé.
-
-### Critères de validation
-- Une photo de la modélisation est postée
-- La modélisation contient le MLD
-- La modélisation permet de stocker les informations sur les ingrédients utilisés dans chaque potion.
+Prends un papier et un crayon (ou rends-toi sur [https://excalidraw.com/](https://excalidraw.com/)), et dessine **le MLD** qui correspond au MCD proposé.
 
 ---
 
