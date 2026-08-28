@@ -1,8 +1,8 @@
 ---
-title: "04.2 - Les bases de la modélisation : MLD - Solution"
+title: "MySQL 04.2 - Les bases de la modélisation : MLD - Solution"
 description: "Apprendre à convertir un MCD en MLD avec la méthode Merise"
 show_toc: true
-parent: 04.2 - Les bases de la modélisation : MLD
+parent: MySQL 04.2 - Les bases de la modélisation : MLD
 ---
 
 Une solution possible :

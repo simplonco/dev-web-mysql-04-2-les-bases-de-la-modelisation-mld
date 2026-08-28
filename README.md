@@ -1,5 +1,5 @@
 ---
-title: "04.2 - Les bases de la modélisation : MLD"
+title: "MySQL 04.2 - Les bases de la modélisation : MLD"
 description: "Apprendre à convertir un MCD en MLD avec la méthode Merise"
 show_toc: true
 ---
